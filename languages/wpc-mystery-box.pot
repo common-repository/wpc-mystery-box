@@ -1,0 +1,545 @@
+# Copyright (C) 2024 WPClever
+# This file is distributed under the same license as the WPC Mystery Box for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Mystery Box for WooCommerce 1.1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpc-mystery-box\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-07-24T10:10:12+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: wpc-mystery-box\n"
+
+#. Plugin Name of the plugin
+msgid "WPC Mystery Box for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr ""
+
+#. Description of the plugin
+msgid "WPC Mystery Box allows you to sell boxes that contain randomly products."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPClever"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr ""
+
+#: includes/class-product.php:16
+#: includes/class-product.php:25
+#: includes/class-wpcmb.php:656
+#: includes/class-wpcmb.php:672
+msgid "Add to cart"
+msgstr ""
+
+#: includes/class-product.php:18
+#: includes/class-wpcmb.php:662
+msgid "Read more"
+msgstr ""
+
+#: includes/class-wpcmb.php:104
+msgid "duplicate"
+msgstr ""
+
+#: includes/class-wpcmb.php:105
+msgid "remove"
+msgstr ""
+
+#: includes/class-wpcmb.php:110
+#: includes/class-wpcmb.php:150
+msgid "Name"
+msgstr ""
+
+#: includes/class-wpcmb.php:120
+msgid "Description"
+msgstr ""
+
+#: includes/class-wpcmb.php:130
+msgid "Source"
+msgstr ""
+
+#: includes/class-wpcmb.php:135
+msgid "Select source"
+msgstr ""
+
+#: includes/class-wpcmb.php:136
+#: includes/class-wpcmb.php:187
+msgid "Products"
+msgstr ""
+
+#: includes/class-wpcmb.php:145
+msgid "Order by"
+msgstr ""
+
+#: includes/class-wpcmb.php:147
+#: includes/class-wpcmb.php:159
+msgid "Default"
+msgstr ""
+
+#: includes/class-wpcmb.php:148
+msgid "None"
+msgstr ""
+
+#: includes/class-wpcmb.php:149
+msgid "ID"
+msgstr ""
+
+#: includes/class-wpcmb.php:151
+msgid "Type"
+msgstr ""
+
+#: includes/class-wpcmb.php:152
+msgid "Rand"
+msgstr ""
+
+#: includes/class-wpcmb.php:153
+msgid "Date"
+msgstr ""
+
+#: includes/class-wpcmb.php:154
+msgid "Price"
+msgstr ""
+
+#: includes/class-wpcmb.php:155
+msgid "Modified"
+msgstr ""
+
+#: includes/class-wpcmb.php:157
+msgid "Order"
+msgstr ""
+
+#: includes/class-wpcmb.php:160
+msgid "DESC"
+msgstr ""
+
+#: includes/class-wpcmb.php:161
+msgid "ASC"
+msgstr ""
+
+#: includes/class-wpcmb.php:168
+msgid "Terms"
+msgstr ""
+
+#: includes/class-wpcmb.php:191
+#: includes/class-wpcmb.php:220
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: includes/class-wpcmb.php:216
+msgid "Exclude"
+msgstr ""
+
+#: includes/class-wpcmb.php:245
+msgid "Number of products picked"
+msgstr ""
+
+#: includes/class-wpcmb.php:255
+msgid "Priority"
+msgstr ""
+
+#: includes/class-wpcmb.php:260
+msgid "Randomized"
+msgstr ""
+
+#: includes/class-wpcmb.php:261
+msgid "High to low stock"
+msgstr ""
+
+#: includes/class-wpcmb.php:262
+msgid "Low to high stock"
+msgstr ""
+
+#: includes/class-wpcmb.php:263
+msgid "Order of addition above"
+msgstr ""
+
+#: includes/class-wpcmb.php:265
+msgid "The priority level when picking out products for this assortment."
+msgstr ""
+
+#: includes/class-wpcmb.php:270
+msgid "Each product's quantity"
+msgstr ""
+
+#: includes/class-wpcmb.php:280
+msgid "Necessary level"
+msgstr ""
+
+#: includes/class-wpcmb.php:285
+msgid "Normal"
+msgstr ""
+
+#: includes/class-wpcmb.php:286
+msgid "Required"
+msgstr ""
+
+#: includes/class-wpcmb.php:287
+msgid "Lucky"
+msgstr ""
+
+#: includes/class-wpcmb.php:289
+msgid "When remaining stocks are insufficient or no valid products are found: Normal assortment will be skipped, Required assortment will make the whole box unpurchasable, Lucky assortment will randomly be added or not."
+msgstr ""
+
+#: includes/class-wpcmb.php:346
+msgid "You can copy this field and use it for a CSV import file."
+msgstr ""
+
+#: includes/class-wpcmb.php:430
+#: includes/class-wpcmb.php:441
+msgid "WPC Mystery Box"
+msgstr ""
+
+#: includes/class-wpcmb.php:430
+#: includes/class-wpcmb.php:853
+msgid "Mystery Box"
+msgstr ""
+
+#: includes/class-wpcmb.php:441
+msgid "Premium"
+msgstr ""
+
+#. translators: stars
+#: includes/class-wpcmb.php:444
+msgid "Thank you for using our plugin! If you are satisfied, please reward it a full five-star %s rating."
+msgstr ""
+
+#: includes/class-wpcmb.php:446
+msgid "Reviews"
+msgstr ""
+
+#: includes/class-wpcmb.php:447
+msgid "Changelog"
+msgstr ""
+
+#: includes/class-wpcmb.php:448
+msgid "Discussion"
+msgstr ""
+
+#: includes/class-wpcmb.php:453
+msgid "Settings updated."
+msgstr ""
+
+#: includes/class-wpcmb.php:459
+msgid "How to use?"
+msgstr ""
+
+#: includes/class-wpcmb.php:462
+#: includes/class-wpcmb.php:803
+msgid "Settings"
+msgstr ""
+
+#: includes/class-wpcmb.php:465
+msgid "Localization"
+msgstr ""
+
+#: includes/class-wpcmb.php:468
+#: includes/class-wpcmb.php:804
+msgid "Premium Version"
+msgstr ""
+
+#: includes/class-wpcmb.php:471
+msgid "Essential Kit"
+msgstr ""
+
+#: includes/class-wpcmb.php:479
+msgid "When creating the product, please choose product data is \"Smart mystery box\" then you can add assortments and other settings for this mystery box."
+msgstr ""
+
+#: includes/class-wpcmb.php:499
+msgid "General"
+msgstr ""
+
+#: includes/class-wpcmb.php:503
+msgid "Position"
+msgstr ""
+
+#: includes/class-wpcmb.php:506
+msgid "Above add to cart button"
+msgstr ""
+
+#: includes/class-wpcmb.php:507
+msgid "Under add to cart button"
+msgstr ""
+
+#: includes/class-wpcmb.php:508
+msgid "None (hide it)"
+msgstr ""
+
+#: includes/class-wpcmb.php:510
+msgid "Choose a position to show the assortment product list on the mystery box page. You also can use the shortcode [wpcmb] to show the list where you want."
+msgstr ""
+
+#: includes/class-wpcmb.php:514
+msgid "Layout"
+msgstr ""
+
+#: includes/class-wpcmb.php:517
+msgid "List"
+msgstr ""
+
+#: includes/class-wpcmb.php:518
+msgid "Grid - 2 columns"
+msgstr ""
+
+#: includes/class-wpcmb.php:519
+msgid "Grid - 3 columns"
+msgstr ""
+
+#: includes/class-wpcmb.php:520
+msgid "Grid - 4 columns"
+msgstr ""
+
+#: includes/class-wpcmb.php:525
+msgid "Exclude hidden"
+msgstr ""
+
+#: includes/class-wpcmb.php:528
+#: includes/class-wpcmb.php:538
+#: includes/class-wpcmb.php:548
+#: includes/class-wpcmb.php:557
+#: includes/class-wpcmb.php:566
+#: includes/class-wpcmb.php:594
+msgid "Yes"
+msgstr ""
+
+#: includes/class-wpcmb.php:529
+#: includes/class-wpcmb.php:539
+#: includes/class-wpcmb.php:549
+#: includes/class-wpcmb.php:558
+#: includes/class-wpcmb.php:567
+#: includes/class-wpcmb.php:578
+#: includes/class-wpcmb.php:595
+#: includes/class-wpcmb.php:631
+msgid "No"
+msgstr ""
+
+#: includes/class-wpcmb.php:531
+msgid "Exclude hidden products from the list."
+msgstr ""
+
+#: includes/class-wpcmb.php:535
+msgid "Show quantity"
+msgstr ""
+
+#: includes/class-wpcmb.php:541
+msgid "Show the quantity number before assortment product name."
+msgstr ""
+
+#: includes/class-wpcmb.php:545
+msgid "Show image"
+msgstr ""
+
+#: includes/class-wpcmb.php:554
+msgid "Show price"
+msgstr ""
+
+#: includes/class-wpcmb.php:563
+msgid "Show availability"
+msgstr ""
+
+#: includes/class-wpcmb.php:572
+msgid "Link to individual product"
+msgstr ""
+
+#: includes/class-wpcmb.php:575
+msgid "Yes, open on the same tab"
+msgstr ""
+
+#: includes/class-wpcmb.php:576
+msgid "Yes, open on a new tab"
+msgstr ""
+
+#: includes/class-wpcmb.php:577
+msgid "Yes, open quick view popup"
+msgstr ""
+
+#: includes/class-wpcmb.php:587
+#: includes/class-wpcmb.php:678
+msgid "Cart & Checkout"
+msgstr ""
+
+#: includes/class-wpcmb.php:591
+msgid "Purchase alongside other products?"
+msgstr ""
+
+#: includes/class-wpcmb.php:597
+msgid "If Yes, customers can place an order with the mystery box and other products alongside."
+msgstr ""
+
+#: includes/class-wpcmb.php:601
+msgid "Restricted payment method"
+msgstr ""
+
+#: includes/class-wpcmb.php:621
+msgid "The selected payment methods will be hidden from the checkout form when the cart contains mystery boxes."
+msgstr ""
+
+#: includes/class-wpcmb.php:625
+msgid "Hide assortment products on order details"
+msgstr ""
+
+#: includes/class-wpcmb.php:628
+msgid "Yes, just show the main mystery box"
+msgstr ""
+
+#: includes/class-wpcmb.php:633
+msgid "Hide assortment products, just show the main mystery box product on order details (order confirmation or emails)."
+msgstr ""
+
+#: includes/class-wpcmb.php:648
+msgid "\"Add to cart\" button labels"
+msgstr ""
+
+#: includes/class-wpcmb.php:652
+msgid "Shop/archive page"
+msgstr ""
+
+#: includes/class-wpcmb.php:658
+msgid "For purchasable mystery box."
+msgstr ""
+
+#: includes/class-wpcmb.php:664
+msgid "For unpurchasable mystery box."
+msgstr ""
+
+#: includes/class-wpcmb.php:669
+msgid "Single product page"
+msgstr ""
+
+#: includes/class-wpcmb.php:682
+msgid "Assortments"
+msgstr ""
+
+#. translators: assortments
+#: includes/class-wpcmb.php:686
+#: includes/class-wpcmb.php:1233
+msgid "Assortments: %s"
+msgstr ""
+
+#: includes/class-wpcmb.php:690
+msgid "Assortment product"
+msgstr ""
+
+#. translators: product name
+#: includes/class-wpcmb.php:694
+#: includes/class-wpcmb.php:1201
+msgid "Assortment product in: %s"
+msgstr ""
+
+#: includes/class-wpcmb.php:699
+msgid "Alert messages"
+msgstr ""
+
+#: includes/class-wpcmb.php:703
+msgid "Other products purchase error"
+msgstr ""
+
+#: includes/class-wpcmb.php:706
+#: includes/class-wpcmb.php:1143
+msgid "You cannot purchase this product when there is a mystery box in the cart."
+msgstr ""
+
+#: includes/class-wpcmb.php:711
+msgid "Mystery box purchase error"
+msgstr ""
+
+#: includes/class-wpcmb.php:714
+#: includes/class-wpcmb.php:1149
+msgid "You cannot purchase this mystery box when there are other products in the cart."
+msgstr ""
+
+#: includes/class-wpcmb.php:719
+msgid "Both mystery box & others purchase error"
+msgstr ""
+
+#: includes/class-wpcmb.php:722
+#: includes/class-wpcmb.php:1161
+msgid "You cannot purchase mystery boxes alongside other products. Please check your cart."
+msgstr ""
+
+#: includes/class-wpcmb.php:820
+msgid "Community support"
+msgstr ""
+
+#. translators: count
+#: includes/class-wpcmb.php:838
+msgid "Mystery box (%s)"
+msgstr ""
+
+#: includes/class-wpcmb.php:846
+msgid "Smart mystery box"
+msgstr ""
+
+#: includes/class-wpcmb.php:877
+msgid "Product wasn't returned."
+msgstr ""
+
+#: includes/class-wpcmb.php:902
+msgid "+ Add assortment"
+msgstr ""
+
+#: includes/class-wpcmb.php:904
+msgid "Expand All"
+msgstr ""
+
+#: includes/class-wpcmb.php:906
+msgid "Collapse All"
+msgstr ""
+
+#: includes/class-wpcmb.php:911
+msgid "Remember to save current assortments before exporting to get the latest version."
+msgstr ""
+
+#: includes/class-wpcmb.php:912
+msgid "Export"
+msgstr ""
+
+#: includes/class-wpcmb.php:916
+msgid "Save assortments"
+msgstr ""
+
+#: includes/class-wpcmb.php:925
+msgid "Custom display price"
+msgstr ""
+
+#: includes/class-wpcmb.php:933
+msgid "Above text"
+msgstr ""
+
+#: includes/class-wpcmb.php:943
+msgid "Under text"
+msgstr ""
+
+#: includes/class-wpcmb.php:1323
+msgid "Before wrapper"
+msgstr ""
+
+#: includes/class-wpcmb.php:1324
+msgid "After wrapper"
+msgstr ""
+
+#: includes/class-wpcmb.php:1325
+msgid "Before assortments"
+msgstr ""
+
+#: includes/class-wpcmb.php:1326
+msgid "After assortments"
+msgstr ""
+
+#: includes/class-wpcmb.php:1327
+msgid "Before assortment"
+msgstr ""
+
+#: includes/class-wpcmb.php:1328
+msgid "After assortment"
+msgstr ""
